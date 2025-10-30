@@ -60,7 +60,7 @@ Pasos:
 5 Se actualizan los saldos y se registran las transacciones en ambas cuentas.
 
 ### Ejemplo de salida:
----
+
 ID cuenta origen: 1
 
 ID cuenta destino: 2
@@ -68,7 +68,7 @@ ID cuenta destino: 2
 Monto a transferir: 500
 
 Transferencia exitosa.
----
+
 
 ### Método relacionado: Banco.obtenerHistorial(int id)
 
@@ -84,7 +84,7 @@ Saldo resultante después de la operación
 
 ### Ejemplo de salida:
 
----
+
 ID de la cuenta: 1
 
 [2025-10-29T12:34:56] DEPOSITO: 1000.00 -> Saldo: 1000.00
@@ -92,7 +92,7 @@ ID de la cuenta: 1
 [2025-10-29T13:10:45] RETIRO: 200.00 -> Saldo: 800.00
 
 [2025-10-29T14:20:00] TRANSFERENCIA: -300.00 -> Saldo: 500.00
----
+
 
 ### Aplicar intereses/cargos globales
 
@@ -116,10 +116,9 @@ Flujo:
 
 ### Ejemplo de salida:
 
----
+
 Tasa interés AHORROS (ej: 0.05 = 5%): 0.03
 
 Cargo mensual CORRIENTE: 15
 
 Intereses y cargos aplicados correctamente.
----
