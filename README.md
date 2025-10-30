@@ -49,13 +49,13 @@ Estas son las tres funciones nuevas añadidas recientemente al sistema:
 
 Pasos:
 
-1 El usuario ingresa el ID de la cuenta origen.
+- El usuario ingresa el ID de la cuenta origen.
 
-2 Ingresa el ID de la cuenta destino.
+- Ingresa el ID de la cuenta destino.
 
-3 Especifica el monto a transferir.
+- Especifica el monto a transferir.
 
-4 El sistema valida que ambas cuentas existan y que haya saldo suficiente.
+- El sistema valida que ambas cuentas existan y que haya saldo suficiente.
 
 5 Se actualizan los saldos y se registran las transacciones en ambas cuentas.
 
@@ -98,21 +98,21 @@ ID de la cuenta: 1
 
 Aplica automáticamente:
 
-- Interés a todas las cuentas de ahorro.
++ Interés a todas las cuentas de ahorro.
 
-- Cargo mensual a todas las cuentas corrientes.
++ Cargo mensual a todas las cuentas corrientes.
 
 📘 Método relacionado: Banco.aplicarInteresesYCargos(double tasaInteresAhorros, double cargoCorriente)
 
 Flujo:
 
-1 El usuario ingresa la tasa de interés (por ejemplo, 0.05 = 5%).
+- El usuario ingresa la tasa de interés (por ejemplo, 0.05 = 5%).
 
-2 Ingresa el cargo mensual (por ejemplo, 20).
+- Ingresa el cargo mensual (por ejemplo, 20).
 
-3 El sistema recorre todas las cuentas y aplica la acción correspondiente según el tipo de cuenta.
+- El sistema recorre todas las cuentas y aplica la acción correspondiente según el tipo de cuenta.
 
-4 Cada operación queda registrada en el historial.
+- Cada operación queda registrada en el historial.
 
 ### Ejemplo de salida:
 
