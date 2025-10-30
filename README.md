@@ -74,13 +74,13 @@ Transferencia exitosa.
 
 Qué muestra:
 
-Tipo de transacción (Depósito, Retiro, Transferencia, Interés o Cargo)
+- Tipo de transacción (Depósito, Retiro, Transferencia, Interés o Cargo)
 
-Monto de la operación
+- Monto de la operación
 
-Fecha y hora
+- Fecha y hora
 
-Saldo resultante después de la operación
+- Saldo resultante después de la operación
 
 ### Ejemplo de salida:
 
