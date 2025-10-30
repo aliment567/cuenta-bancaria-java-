@@ -22,14 +22,23 @@ Compila y ejecuta el programa desde tu terminal:
 
 ********************
 1 - Crear cuenta
+
 2 - Consultar saldo
+
 3 - Retirar
+
 4 - Depositar
+
 5 - Listar cuentas
+
 6 - Transferir entre cuentas
+
 7 - Listar historial de cuenta
+
 8 - Aplicar intereses/cargos globales
+
 9 - Salir
+
 Seleccione opción:
 
 ## Nuevas Funciones (Opciones 6, 7 y 8)
